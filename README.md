@@ -26,11 +26,3 @@ A Coursera-ready SwiftUI iOS app skeleton that implements the **Little Lemon** h
 4. Add `Resources/sample-menu.json` to the project and ensure it's included in the main bundle (Copy items if needed).
 5. Add `Assets/wireframe.png` and `Assets/placeholder.png` to your project's Assets catalog (or drag the files into the project and keep them in an asset folder).
 6. Build & Run on the iOS Simulator (iPhone 14 recommended).
-
-## Capstone mapping
-- UI/UX: Matching wireframe hero, navigation, categories, and menu list.
-- Functionality: Onboarding, authentication mock, profile, search, cart, checkout flow.
-- Code quality: MVVM-ish separation, ObservableObject usage, API abstraction for future real backend.
-- Testing: Included XCTest placeholders and example tests for CartManager.
-
-If you want, I can now generate a full `.xcodeproj` and include app icons and provisioning-ready assets. Reply if you'd like that ZIP instead.
