@@ -1,8 +1,5 @@
 # Little Lemon - Coursera Capstone (SwiftUI)
-## What this bundle contains
-A Coursera-ready SwiftUI iOS app skeleton that implements the **Little Lemon** home screen and related features mapped to a capstone rubric.
-
-## Features implemented (Capstone-ready)
+## Features implemented 
 - Onboarding flow with local state to show only once.
 - Authentication **mock** (local mocked sign-in) and Profile screen with editable name and location stored in UserDefaults.
 - Home screen matching the uploaded wireframe structure:
