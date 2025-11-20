@@ -1,0 +1,2 @@
+This is a placeholder image file. Replace with an actual PNG in Assets.xcassets named 'placeholder'.
+The uploaded wireframe image is included as 'wireframe.png'.

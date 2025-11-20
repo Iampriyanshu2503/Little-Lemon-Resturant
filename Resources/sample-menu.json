@@ -1,0 +1,44 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Spicy Lemon Chicken",
+      "description": "Citrus-marinated chicken with house spices.",
+      "price": 249.0,
+      "imageName": "placeholder",
+      "isVegetarian": false
+    },
+    {
+      "id": 2,
+      "name": "Zesty Paneer Wrap",
+      "description": "Grilled paneer, fresh veggies and lemon chutney.",
+      "price": 179.0,
+      "imageName": "placeholder",
+      "isVegetarian": true
+    },
+    {
+      "id": 3,
+      "name": "Lemon Herb Salad",
+      "description": "Mixed greens with lemon-herb dressing.",
+      "price": 129.0,
+      "imageName": "placeholder",
+      "isVegetarian": true
+    },
+    {
+      "id": 4,
+      "name": "Mango Lemonade",
+      "description": "Fresh mango with a lemon twist.",
+      "price": 89.0,
+      "imageName": "placeholder",
+      "isVegetarian": true
+    },
+    {
+      "id": 5,
+      "name": "Paneer Lemon Skewers",
+      "description": "Chargrilled paneer with lemon glaze.",
+      "price": 199.0,
+      "imageName": "placeholder",
+      "isVegetarian": true
+    }
+  ]
+}
